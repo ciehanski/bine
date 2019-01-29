@@ -8,8 +8,8 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/cretz/bine/control"
-	"github.com/cretz/bine/torutil/ed25519"
+	"github.com/ciehanski/bine/control"
+	"github.com/ciehanski/bine/torutil/ed25519"
 	othered25519 "golang.org/x/crypto/ed25519"
 )
 

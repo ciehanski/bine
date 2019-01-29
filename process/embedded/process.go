@@ -20,9 +20,9 @@
 package embedded
 
 import (
-	"github.com/cretz/bine/process"
+	"github.com/ciehanski/bine/process"
 
-	tor035 "github.com/cretz/bine/process/embedded/tor-0.3.5"
+	tor035 "github.com/ciehanski/bine/process/embedded/tor-0.3.5"
 )
 
 // NewCreator creates a process.Creator for statically-linked Tor embedded in

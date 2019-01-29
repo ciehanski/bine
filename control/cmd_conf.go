@@ -3,7 +3,7 @@ package control
 import (
 	"strings"
 
-	"github.com/cretz/bine/torutil"
+	"github.com/ciehanski/bine/torutil"
 )
 
 // SetConf invokes SETCONF.
